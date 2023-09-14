@@ -1,0 +1,12 @@
+Package: eeplot
+Title: Plotting Simplified
+Version: 0.0.0.9000
+Authors@R: 
+    person("Elston", "D'Souza", , "elstonndsouza@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: `use_mit_license()` 
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: R (>= 3.5.0), ggplot2, data.table, magrittr, stringi, stringr
